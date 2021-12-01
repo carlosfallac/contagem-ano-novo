@@ -18,7 +18,7 @@ O projeto é uma contagem regressiva para o ano novo
 
 ## 📋 Instalação
 
-    - Clonar repositorio
+    - Clonar repositório
     $ git clone https://github.com/carlosfallac/contagem-ano-novo.git && cd contagem-ano-novo
 
-    - Acesse index.html e navegue pelo site
+    - Acesse index.html na pasta do projeto e navegue pelo site
