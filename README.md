@@ -1,6 +1,6 @@
 ## 💻 Sobre
 
-O projeto é uma contagem regressiva para o ano novo
+O projeto consiste em uma contagem regressiva para o ano novo
 <br>
 <h3 align="left"><a href="https://contagem-ano-novo-carlosfallac.vercel.app/" target="_blank" rel="noopener noreferrer">Clique aqui para ver o projeto!</a><h3>
 <br>
