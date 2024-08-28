@@ -3,7 +3,7 @@ const  minutesContainer = document.querySelector('#minutes')
 const  hoursContainer = document.querySelector('#hours')
 const  daysContainer = document.querySelector('#days')
 
-const newYearTime = new Date('January 01 2022 00:00:00')
+const newYearTime = new Date('January 01 2025 00:00:00')
 
 const getTimeUnit = unit => unit < 10 ? '0' + unit: unit
 
